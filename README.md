@@ -1,5 +1,4 @@
-# Note: This repository has been archived
-This project was developed under a previous phase of the Yale Digital Humanities Lab. Now a part of Yale Library’s Computational Methods and Data department, the Lab no longer includes this project in its scope of work. As such, it will receive no further updates.
+# Note: This repository is a minimal fork from Douglas Duhaime's retired repo
 
 
 # Pointgrid

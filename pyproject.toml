@@ -1,0 +1,21 @@
+[project]
+name = "pointgrid"
+version = "0.0.6"
+description = "Transform a 2D distribution into a hexagonal layout"
+keywords = ["data-visualization", "scatterplots", "pointcloud", "overplotting"]
+readme = "README.md"
+authors = [
+    { name = "Douglas Duhaime", email = "douglas.duhaime@gmail.com" }
+]
+requires-python = ">=3.10"
+license = "MIT"
+dependencies = [
+	"numpy>=1.14.0",
+    "pandas>=0.25.3",
+    "scipy>=1.1.0"
+]
+
+
+[build-system]
+requires = ["uv_build"]
+build-backend = "uv_build"
